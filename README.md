@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Open Source Audit Project
 
 ## Student Details
@@ -21,3 +22,7 @@ Script 5: Manifesto generator
 
 chmod +x \*.sh
 ./script1_system_info.sh
+=======
+# Linux_Project
+Linux Project for VITyarthi Open-Source Software Course.
+>>>>>>> 84538d33b1032086606bf3d2678aa45d4199b5af
